@@ -37,6 +37,7 @@ Remoção de um evento, caso o mesmo não possua reservas em andamento, caso pos
 Consulta por título, utilizando similaridades, por exemplo, caso pesquise Show, traga todos os eventos que possuem a palavra Show no título;
 Consulta por local e data;
 Consulta por range de preço e a data;
+
 Para o EventReservation, construa os métodos:
 
 Inclusão de uma nova reserva; *Autenticação
