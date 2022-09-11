@@ -1,6 +1,7 @@
 # ProjetoFinal-WebIII
 
-Enunciado
+Enunciado:
+
 Construa uma API que registre e manipule eventos que acontecem na cidade, como shows, peças de teatro, eventos especiais em restaurantes, entre outros.
 
 Implemente a documentação completa da API, utilizando Swagger. Todos os métodos devem possuir validação dos campos obrigatórios, quais os formatos de dados que a API recebe e responde e quais os possíveis status de retorno.
